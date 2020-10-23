@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++ and Swift**
 
-- 📫 How to reach me [via Email](zac.hong01@gmail.com)
+- 📫 How to reach me ![via Email](zac.hong01@gmail.com)
 
 - ⚡ Fun fact **I would like to be a Quant**
 
