@@ -1,8 +1,6 @@
 
 ### Hi there 👋
 
-![Profile views counter](https://ZazzyDictionary.dev/github-profile-view-counter.svg)
-
 #### I'm a Student in Singapore.
 
 - 🏢 I'm currently learning at **Ngee Ann Polytechnic**
