@@ -22,5 +22,4 @@
 
 ![Zachary's github stats](https://github-readme-stats.vercel.app/api?username=ZazzyDictionary&show_icons=true&theme=vue-dark)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zazzydictionary&show_icons=true&locale=en" alt="zazzydictionary" /></p>
 
