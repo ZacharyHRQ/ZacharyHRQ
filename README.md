@@ -6,7 +6,7 @@
 
 - 📫 Reach me via [Email](mailto:zac.hong01@gmail.com)
 
-- ⚡ Fun fact **I would like to be a Quant**
+- ⚡ Fun fact **I would like to look at Stocks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
