@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Singapore</h3>
 
 
-- 🌱 I’m currently learning **C++ and Swift**
+- 🌱 I’m currently learning ** Golang **
 
 - 📫 Reach me via [Email](mailto:zac.hong01@gmail.com)
 
