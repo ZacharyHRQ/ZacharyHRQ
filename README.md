@@ -17,6 +17,6 @@
 <a href="https://leetcode.com/peanutkidde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="peanutkidde" height="30" width="40" /></a>
 </p>
 
-![Zachary's github stats](https://github-readme-stats.vercel.app/api?username=ZazzyDictionary&show_icons=true&theme=vue-dark)
+![Zachary's github stats](https://github-readme-stats.vercel.app/api?username=ZacharyHRQ&show_icons=true&theme=vue-dark)
 
 
