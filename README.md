@@ -2,13 +2,13 @@
 <h3 align="center">A passionate developer from Singapore</h3>
 
 
-- 🌱 I’m currently learning ** Golang **
+- 🌱 I’m currently learning **Golang**
 
 - 📫 Reach me via [Email](mailto:zac.hong01@gmail.com)
 
 - ⚡ Fun fact **I would like to look at Stocks**
 
-<a href="https://app.daily.dev/ZazzyDictionary"><img src="https://api.daily.dev/devcards/2264d9a5c5cf46eca1a549d8af118616.png?r=3og" width="400" alt="Zachary's Dev Card"/></a>
+<a href="https://app.daily.dev/ZazzyDictionary"><img src="https://api.daily.dev/devcards/2264d9a5c5cf46eca1a549d8af118616.png?r=3og" width="280" alt="Zachary's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
