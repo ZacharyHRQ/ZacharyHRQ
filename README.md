@@ -6,7 +6,7 @@
 
 - 📫 Reach me via [Email](mailto:zac.hong01@gmail.com)
 
-- ⚡ Fun fact **I would like to look at Stocks**
+- ⚡ Fun fact **I support web3.0**
 
 <a align="right" href="https://app.daily.dev/ZazzyDictionary"><img src="https://api.daily.dev/devcards/2264d9a5c5cf46eca1a549d8af118616.png?r=3og" width="280" alt="Zachary's Dev Card"/></a>
 
