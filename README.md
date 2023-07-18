@@ -15,6 +15,5 @@
 <a href="https://leetcode.com/peanutkidde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="peanutkidde" height="30" width="40" /></a>
 </p>
 
-![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacharyHRQ&show_icons=true&theme=tokyonight)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZacharyHRQ&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
